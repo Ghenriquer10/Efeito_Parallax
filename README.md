@@ -1,3 +1,3 @@
 # Usando o efeito PARALLAX do css
 
-<img src="https://imgur.com/a/3YT7JRQ" width="400" height="400"/>
+<img src="https://media.giphy.com/media/jfTRH0F7Ikn0ruVtiC/giphy.gif" width="400" height="400"/>
