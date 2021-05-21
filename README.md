@@ -1,5 +1,5 @@
 # Usando o efeito PARALLAX do css
 
-<img src="https://media.giphy.com/media/jfTRH0F7Ikn0ruVtiC/giphy.gif" width="400" height="400"/>
+<img src="https://media.giphy.com/media/bmL94FhdQlMgtZfj0u/giphy.gif" width="800" height="800"/>
 
-[Imgur](https://imgur.com/3W8AtBz)
+
